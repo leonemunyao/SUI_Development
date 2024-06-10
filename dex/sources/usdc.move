@@ -1,6 +1,5 @@
-module dex::usdc {
+module SuiMetaverseLand::usdc {
     use std::option;
-
     use sui::url;
     use sui::transfer;
     use sui::coin;
