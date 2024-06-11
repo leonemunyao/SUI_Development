@@ -1,4 +1,4 @@
-module SuiMetaverseLand::eth {
+module dex::eth {
     use std::option;
     use sui::url;
     use sui::transfer;

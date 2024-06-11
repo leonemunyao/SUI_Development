@@ -1,4 +1,4 @@
-module SuiMetaverseLand::usdc {
+module dex::usdc {
     use std::option;
     use sui::url;
     use sui::transfer;
